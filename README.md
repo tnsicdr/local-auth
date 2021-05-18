@@ -1,0 +1,3 @@
+# local-auth
+
+Local auth is an experiment/exploration into Express as a password-based auth server. The goal of this project is not to create a robust and secure auth server for non-trivial use, but instead to have something that can be used for experimentation/development with JWTs and deployed locally on localhost or on a local network device like a Raspberry Pi or other appliance that isn't public facing.
